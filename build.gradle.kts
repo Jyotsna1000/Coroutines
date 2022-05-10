@@ -12,6 +12,10 @@ repositories {
 }
 
 dependencies {
+    implementation("com.github.kittinunf.fuel:fuel:2.3.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.1")
+//    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-jdk8")
+//    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
     testImplementation(kotlin("test"))
 }
 

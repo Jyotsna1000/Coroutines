@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScopeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-09T18:03:32" hostname="Jyotsnas-MacBook-Pro.local" time="1.553">
+  <properties/>
+  <testcase name="should return nationality for a given name()" classname="ScopeTest" time="1.553"/>
+  <system-out><![CDATA[[Success: {"name":"nathaniel","country":[{"country_id":"GH","probability":0.3306489516462087},{"country_id":"US","probability":0.21465914776725203},{"country_id":"PH","probability":0.1657076043373859}]}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
