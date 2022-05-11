@@ -17,6 +17,7 @@ class Scope {
             //the coroutineScope will be considered completed only after all the launch has been completed
         }
         println("STOP PARALLEL RUNNING JOBS")
+
     }
 
     fun getNationalityBlocking() {
